@@ -1,4 +1,4 @@
-### 12.1.8
+### 12.1.9
 * __Forever__: Now inventory can be open from the gamepad radial menu.
 * __Forever__ and __Classic__: Now "Soul Shards" rule also shows soul shards outside of soul shard bags.
 * __Forever__: Option for changing reagent slot color now appears correctly.
